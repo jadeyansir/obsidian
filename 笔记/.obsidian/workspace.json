@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "f9b9740d5f984b98",
+    "type": "split",
+    "children": [
+      {
+        "id": "d1adedf86fca40e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d43bc228a4a6e11d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "019db92bea80e2a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "06962893979b2f17",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f55774f81139e2e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7cfb258f7a22af46",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "861cacb736c1965c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "261907a13bb020b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b9a62fc90605dd8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "565dcfd243498a9c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "计算机/Java项目问题/动态获取类字段注解值.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6b6f6507e1c0323a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "计算机/Java项目问题/动态获取类字段注解值.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4c0bfc773141d064",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "46a7a2c1c08bc5fa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "计算机/Java项目问题/动态获取类字段注解值.md"
+              }
+            }
+          },
+          {
+            "id": "be7f5636ef9e14a1",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 719
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "remotely-save:Remotely Save": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "be7f5636ef9e14a1",
+  "lastOpenFiles": [
+    "计算机/Java项目问题/Can not find 'Converter' support class Date..md",
+    "计算机/Java项目问题/Ljava.lang.String; cannot be cast to java.lang.String报错的原因.md",
+    "计算机/Java项目问题/Git问题（MERGE_HEAD exists）.md",
+    "计算机/Java项目问题/git 'credential-manager-core' is not a git command. See 'git --help'.md",
+    "搞机/SwitchHosts报错没有写入 Hosts 文件的权限.md",
+    "计算机/Python/pycharm将py文件识别为txt文件，需要重新识别为py文件.md",
+    "其他/新基于多通道卷积神经网络和胶囊网络模型的微表情识别.md",
+    "其他/数据.md",
+    "计算机/Python/未命名.md",
+    "计算机/Java项目问题/工作学习笔记.md"
+  ]
+}
