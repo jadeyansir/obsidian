@@ -11,11 +11,51 @@
             "id": "d43bc228a4a6e11d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "diff-view",
+              "state": {
+                "file": "笔记/.obsidian/plugins/obsidian-git/data.json",
+                "staged": false
+              }
+            }
+          },
+          {
+            "id": "b6ce3112964e86a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "计算机/Java项目问题/es多个字段分组后，多个sum求和，按照某一个sum值排序.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "700eaf0dcaa9434d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "计算机/Java项目问题/Optional中map和ifPresent的使用.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1b28d24c568af580",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "计算机/Java项目问题/forEach与stream结合.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -81,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机/Java项目问题/动态获取类字段注解值.md",
+                "file": "计算机/Java项目问题/forEach与stream结合.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机/Java项目问题/动态获取类字段注解值.md",
+                "file": "计算机/Java项目问题/forEach与stream结合.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机/Java项目问题/动态获取类字段注解值.md"
+                "file": "计算机/Java项目问题/forEach与stream结合.md"
               }
             }
           },
@@ -151,8 +191,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "be7f5636ef9e14a1",
+  "active": "1b28d24c568af580",
   "lastOpenFiles": [
+    "计算机/Java项目问题/Optional中map和ifPresent的使用.md",
+    "计算机/Java项目问题/es多个字段分组后，多个sum求和，按照某一个sum值排序.md",
     "计算机/Java项目问题/Can not find 'Converter' support class Date..md",
     "计算机/Java项目问题/Ljava.lang.String; cannot be cast to java.lang.String报错的原因.md",
     "计算机/Java项目问题/Git问题（MERGE_HEAD exists）.md",
@@ -160,8 +202,6 @@
     "搞机/SwitchHosts报错没有写入 Hosts 文件的权限.md",
     "计算机/Python/pycharm将py文件识别为txt文件，需要重新识别为py文件.md",
     "其他/新基于多通道卷积神经网络和胶囊网络模型的微表情识别.md",
-    "其他/数据.md",
-    "计算机/Python/未命名.md",
-    "计算机/Java项目问题/工作学习笔记.md"
+    "其他/数据.md"
   ]
 }
